@@ -14,12 +14,16 @@ OBJECTIVE:The objective of the project is Exploratory data analysis on domestic 
 
 # KEY ACTIVITIES #
   Data cleaning
+  
   Data visualization
+  
   correlation analysis
 
   # TECHNOLOGIES USED #
   Python:The primary programming language in data analysis
+  
   pandas: used for data manipulation and analysis
+  
   seabron:Used for making statistical graphs that are informative and attractive 
 
 
