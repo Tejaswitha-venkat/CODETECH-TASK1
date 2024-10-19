@@ -8,6 +8,8 @@ MENTOR:N.SANTHOSH KUMAR
 # OVERVIEW OF THE PROJECT #
 
 PROJECT:EXPLORATORY DATA ANALYSIS [EDA] ON DOMESTIC VIOLENCE AGANIST WOMEN
+
+
 OBJECTIVE:The objective of the project is Exploratory data analysis on domestic violenec aganist women.the aim is to uncover insights into distributions,correlaton and data visualization through histogram,scatterplot etc.
 
 # KEY ACTIVITIES #
